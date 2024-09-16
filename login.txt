@@ -1,0 +1,6 @@
+HTTP Methods
+
+GET   -> simply used to retrieve data
+POST  ->send data to server
+PUT  -> send data to server (to Update things)
+DELETE  -> delete request to server to delete things
